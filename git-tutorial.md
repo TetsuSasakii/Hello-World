@@ -3,7 +3,7 @@
   gitの初期化・設定開始
 - git status: 
   ワークツリーのステータスを表示
--git config : 
+- git config : 
   設定周りの確認・変更
 - git log: ログを表示    
   -- onelineでコミットメッセージの1行のみの一覧表示
@@ -25,7 +25,7 @@
 - git rm: 
   ファイルとindex情報の削除
 
--git clone: 
+- git clone: 
   レポジトリをコピー
 - git pull: 
   リモートレポジトリの同期	
